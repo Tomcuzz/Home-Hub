@@ -4,7 +4,8 @@ Home-Hub
 Central Home Stuff
 Done:
 - Weather
-- Stuff Of Day - Word/Fact
+- Stuff Of Day - Word/Fact/Insult
+- News Feed
 
 To Do:
 - Cleaning Routar
@@ -17,5 +18,4 @@ To Do:
 - App Interface
 - Push Notification
 - Check In - Who In
-- Stuff Of Day - Insult/Music
-- News Feed
+- Stuff Of Day - Music
