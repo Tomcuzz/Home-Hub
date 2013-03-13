@@ -1,0 +1,7 @@
+24:ab:81:b9:62:53	Router
+00:23:df:de:30:20	Max Desktop
+7c:d1:c3:73:1e:2c	Max Laptop
+40:30:04:56:4c:48	Max iPad
+b8:27:eb:0c:77:dc	Raspberry Pi
+5c:96:9d:8a:d3:c7	Tom Laptop
+98:fe:94:01:d9:8d	Tom iPhone
