@@ -19,8 +19,3 @@ To Do:
 - Push Notification
 - Check In - Who In
 - Stuff Of Day - Music
-
-
-Mac Addresses:
-- Tom Laptop - 5c:96:9d:8a:d3:c7
-- Tom iPhone - 98:fe:94:01:d9:8d
